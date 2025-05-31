@@ -64,10 +64,9 @@ Dedicated Computer Engineering student with a strong foundation in **embedded sy
 ---
 
 
-## 📊 GitHub Activity  
-[![GitHub Contributions](https://contributions-calculator.vercel.app/api?username=alissonrodrigues0120)](https://github.com/alissonrodrigues0120)  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonrodrigues0120&show_icons=true)](https://github.com/alissonrodrigues0120)  
-
+### 📊 GitHub Stats  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alissonrodrigues0120&show_icons=true&theme=dark)](https://github.com/alissonrodrigues0120)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alissonrodrigues0120&layout=compact)](https://github.com/alissonrodrigues0120)  
 ---
 
 ## 🌱 Career Goals   
