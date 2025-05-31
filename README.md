@@ -1,6 +1,6 @@
 # Álisson Rodrigues Fernandes 🌐  
 **Computer Engineering Student | Embedded Systems & Real-Time Software Developer**  
-📍 Quixadá-Ceará, Brazil | 📧 alissonrodrigues0120@outlook.com  
+📍 Quixadá-Ceará, Brazil | 📧 alissonrodriguescontato015@gmail.com  
 
 ---
 
